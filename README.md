@@ -1,5 +1,7 @@
 # hello-world
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Hello, my name is Cherish. I enjoy solving problems and making software that changes the way of life.
-Stick arounf this is only the beginning.
+ I'm Cherish, a problem solver that is making software that will changes the way of life.
+
+Stick around this is only the beginning! 😉
